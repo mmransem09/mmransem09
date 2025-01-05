@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for Cybersecurity, I thrive on solving complex problems and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
 
-My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a role within a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
+My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a role within a Security Operations Center (SOC) as a SOC Analyst, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
