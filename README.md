@@ -1,9 +1,7 @@
 # Hello, I'm Hananiah
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am an IT professional with over five (5) years of experience as an IT Support Engineer as well as have a profound interest in Information Security and dedication to solving complex problems.
+Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for Information Security, I thrive on solving complex problems and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
