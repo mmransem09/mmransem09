@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a devote troubleshooter and problem solver with over five (5) years of experience as an IT Support Engineer with profound interest in Information security and a dedication to solving complex problems.
+I am a devote troubleshooter and problem solver with over five (5) years of experience as an IT Support Engineer as well as a profound interest in Information security and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
