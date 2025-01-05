@@ -1,7 +1,7 @@
 # Hello, I'm Hananiah
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for Information Security, I thrive on solving complex problems and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
+Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for Cybersecurity, I thrive on solving complex problems and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
 
 My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a role within a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
 
