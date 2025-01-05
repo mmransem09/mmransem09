@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am an IT professional with a profound interest in technology and a dedication to solving complex problems.
+I am an IT Support Engineer with over 5 years of experience, profound interest in Information security and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
