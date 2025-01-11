@@ -50,6 +50,6 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+# Projects
 - Packet Filtering Lab
 - Active Directory Lab
