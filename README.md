@@ -51,5 +51,5 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Packet Filtering Lab
+- Active Directory Lab
