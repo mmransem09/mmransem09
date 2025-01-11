@@ -13,9 +13,6 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 | IP Networking, Subnetting, Routing, Network Address Translation (NAT) <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc.    | <a href="https://google.com">Packet Filtering Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">CTF Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
