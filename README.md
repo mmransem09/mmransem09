@@ -11,7 +11,7 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IP Networking, Subnetting, Routing, Network Address Translation (NAT) <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc.    | <a href="https://google.com">Packet Filtering Lab</a>|
-| User and Group Management, Group Policy Management (GPO) <br> Identity and Access Management (IAM)| <a href="https://google.com">Active Directory Lab</a>|
+| User and Group Management, Group Policy Management (GPO) <br> Identity and Access Management (IAM), Security Hardening| <a href="https://google.com">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">CTF Lab</a>|
 
 ## Tools
