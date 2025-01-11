@@ -10,7 +10,7 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Subnetting, Routing, Network Address (NAT), <br> Restricting access to services such as SMTP, IMAP,<br> DNS, FTP, HTTP, HTTPS etc    | <a href="https://google.com">Packet Filtering Lab</a>|
+| Subnetting, Routing, Network Address (NAT), <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc    | <a href="https://google.com">Packet Filtering Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
