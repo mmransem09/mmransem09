@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of exper
 My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a Security Analyst role, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
