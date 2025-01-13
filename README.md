@@ -49,3 +49,5 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ## Projects
 - Packet Filtering Lab
 - Active Directory Lab
+- CTF Lab
+- Cisco ASA Lab
