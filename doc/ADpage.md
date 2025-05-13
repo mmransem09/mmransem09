@@ -47,11 +47,11 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 ### 📁 File Server Setup <br>
 
-- Role Installed: File Server
+- **Role Installed:** File Server
 
-- Shared Folder: C:\TestData
+- **Shared Folder:** C:\TestData
 
-   - Subfolders: Users, Jobs, Accounts
+   - **Subfolders:** Users, Jobs, Accounts
 
 ---
 
@@ -151,7 +151,7 @@ The following tools were explored for auditing and evaluation:
 
 ### 📌 Conclusion
 
-This lab provided hands-on experience in managing and securing a Windows Active Directory environment. Through iterative testing, research, and implementation, we developed critical skills in systems administration, RBAC enforcement, and domain hardening. The project was instrumental in understanding the foundational concepts of virtualization and system security.
+This lab provided hands-on experience in managing and securing a Windows Active Directory environment. Through iterative testing, research, and implementation, I developed critical skills in systems administration, RBAC enforcement, and domain hardening. The project was instrumental in understanding the foundational concepts of virtualization and system security.
 
 
 
