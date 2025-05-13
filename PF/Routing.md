@@ -27,8 +27,10 @@ ert3 ↔ ec8: 2.2.3.0/24 (ert3: .3, ec8: .8)
 
 ert3 ↔ es7: 3.2.3.0/24 (ert3: .3, es7: .8)
 
-🔒 Security Requirements and Implementation
+## 🔒 Security Requirements and Implementation
 The organization adopted a default deny firewall policy. All traffic was blocked unless explicitly allowed. Packet filtering rules were applied on rt1 and rt2, with rt2 also performing Network Address Translation (NAT) for external communication.
+
+---
 
 🔐 Services and Access Rules
 Public Access (From Internet to Internal):
@@ -49,7 +51,9 @@ DNS: internal clients query s2 (internal resolver), which forwards to public DNS
 
 FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and external (es7) FTP servers
 
-🔁 NAT Configuration
+---
+
+## 🔁 NAT Configuration
 All outbound connections from the internal network were NATed using the IP address 1.2.3.4 on the external interface of rt2.
 
 Port forwarding rules were configured for public-facing services hosted internally.
