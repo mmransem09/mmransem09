@@ -139,16 +139,6 @@ The following tools were explored for auditing and evaluation:
 
 ---
 
-### 🗂️ Report Screenshots (Refer to GitHub Repository) <br>
-
-- AD User & Group creation
-
-- Folder structure and permission settings
-
-- Group Policy configurations
-
-- Security tool outputs and audit results
-
 ### 📌 Conclusion
 
 This lab provided hands-on experience in managing and securing a Windows Active Directory environment. Through iterative testing, research, and implementation, I developed critical skills in systems administration, RBAC enforcement, and domain hardening. The project was instrumental in understanding the foundational concepts of virtualization and system security.
