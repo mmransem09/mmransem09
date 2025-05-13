@@ -1,7 +1,7 @@
 # 🛡️ Packet Filtering Lab
 
 ### 📘 Overview
-This project was completed as part of a Network Security (NetSec) lab, focusing on internetwork design and packet filtering using firewall rules. The objective was to implement a secure internetwork for an imaginary organization by simulating a virtual lab environment and configuring routers and hosts using subnetting, NAT, and filtering policies.
+This project was completed as part of a Network Security (NetSec) lab, focusing on internetwork design and packet filtering using firewall rules. The objective was to implement a secure internetwork for an imaginary organization by simulating an OpenBSD virtual lab environment and configuring routers and hosts using subnetting, NAT, and filtering policies.
 
 ---
 
