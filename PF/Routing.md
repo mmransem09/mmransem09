@@ -1,8 +1,8 @@
 # 🛡️ Packet Filtering Lab
----
+
 ## 📘 Overview
 This project was completed as part of a Network Security (NetSec) lab, focusing on internetwork design and packet filtering using firewall rules. The objective was to implement a secure internetwork for an imaginary organization by simulating a virtual lab environment and configuring routers and hosts using subnetting, NAT, and filtering policies.
-
+---
 ## 🌐 Network Topology
 The virtual internetwork was based on the predefined topology located at /etc/vinet/topologies/netsec_project, consisting of multiple routers, bridges, and clients. The key components included:
 
@@ -11,8 +11,9 @@ Internal clients and servers (e.g., c1–c7, s1–s7)
 Edge routers (rt1, rt2)
 
 External nodes (ert3, ec8, es7)
+---
 
-🧩 IP Addressing Scheme
+## 🧩 IP Addressing Scheme
 Internal Network: Subnetted from 192.168.0.0/24 to address all internal hosts and interfaces.
 
 External Connections:
