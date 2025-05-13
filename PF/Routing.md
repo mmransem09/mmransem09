@@ -30,7 +30,7 @@ ert3 ↔ es7: 3.2.3.0/24 (ert3: .3, es7: .8)
 ### 🔒 Security Requirements and Implementation
 The organization adopted a default deny firewall policy. All traffic was blocked unless explicitly allowed. Packet filtering rules were applied on rt1 and rt2, with rt2 also performing Network Address Translation (NAT) for external communication.
 
- 🔐  Services and Access Rules 
+ 🔐  **Services and Access Rules** 
  
 Public Access (From Internet to Internal):
 
@@ -52,7 +52,7 @@ FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and ext
 
 ---
 
-## 🔁 NAT Configuration
+### 🔁 NAT Configuration
 All outbound connections from the internal network were NATed using the IP address 1.2.3.4 on the external interface of rt2.
 
 Port forwarding rules were configured for public-facing services hosted internally.
@@ -62,12 +62,16 @@ netcat (nc): Used to emulate client-server communication for HTTP, SMTP, DNS, an
 
 ftp: Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
 
-📦 Deliverables
+---
+
+### 📦 Deliverables
 🗺️ Topology Diagram: Includes all IP addresses, subnets, and network components. (Include this as an image or diagram file in your GitHub repo.)
 
 📜 Firewall Rulesets: Detailed iptables or equivalent configuration scripts applied on rt1 and rt2.
 
 📄 Testing Logs: Connection tests and verification for each service scenario using netcat, ftp, and other diagnostic tools.
 
-✅ Conclusion
+---
+
+### ✅ Conclusion
 This project provided hands-on experience in network segmentation, firewall policy design, NAT configuration, and service access control. It reinforced core cybersecurity principles by applying a least-privilege access model to real-world networking scenarios.
