@@ -1,10 +1,5 @@
 
----
-
-layout: default
----
-
-# Child Page Title
+# Active Directory Lab
 
 📋 Overview
 This project involved setting up and securing a small Active Directory (AD) environment to better understand Windows domain management and system hardening techniques. The environment consisted of a Domain Controller (DC), a File Server, and a Client machine.
