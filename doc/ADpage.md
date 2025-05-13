@@ -1,14 +1,13 @@
 
 ---
-title: "Child Page Title"
+
 layout: default
 ---
 
 # Child Page Title
 
-Welcome to the child page!:contentReference[oaicite:2]{index=2}
-
-:contentReference[oaicite:4]{index=4}:contentReference[oaicite:6]{index=6}
+📋 Overview
+This project involved setting up and securing a small Active Directory (AD) environment to better understand Windows domain management and system hardening techniques. The environment consisted of a Domain Controller (DC), a File Server, and a Client machine.
 
 ## Section 1
 
