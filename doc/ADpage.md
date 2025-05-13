@@ -2,11 +2,13 @@
 # Active Directory Lab
 
 📋 Overview <br>
+
 This project involved setting up and securing a small Active Directory (AD) environment to better understand Windows domain management and system hardening techniques. The environment consisted of a Domain Controller (DC), a File Server, and a Client machine.
 
 ---
 
 ⚙️ Lab Setup <br>
+
 🖥️ Virtual Machines
 Domain Controller (DC): Windows Server 2019/2022
 
@@ -19,6 +21,7 @@ Domain Name: 505Group3.local
 ---
 
 🧱 Active Directory Configuration <br>
+
 Groups Created:
 
 Test1
@@ -42,6 +45,7 @@ Organizational Units: Default
 ---
 
 📁 File Server Setup <br>
+
 Role Installed: File Server
 
 Shared Folder: C:\TestData
@@ -51,6 +55,7 @@ Subfolders: Users, Jobs, Accounts
 ---
 
 🔐 Permissions Configuration <br>
+
 All users → full access to TestData\Users
 
 Test1 group → modify access to Jobs
@@ -62,6 +67,7 @@ August → read-only access to Jobs
 ---
 
 🧪 RBAC Testing <br>
+
 Logged in with each user account from the client machine
 
 Verified folder access based on group membership
@@ -71,6 +77,7 @@ Modified group membership dynamically and tested RBAC limitations
 ---
 
 🔍 Security Evaluation Tools <br>
+
 The following tools were explored for auditing and evaluation:
 
 Ping Castle – Domain security health check
@@ -86,6 +93,7 @@ Windows Security Baseline – Group Policy reference
 ---
 
 🛡️ Hardening Steps <br>
+
 Created a separate local admin account
 
 Enabled BitLocker with Enhanced PIN on DC
@@ -109,14 +117,13 @@ Disabled unused services and ports
 ---
 
 🧾 Challenges & Lessons Learned <br>
+
 🔧 Challenges Faced
 Group Policy settings not applying due to replication delays
 
 Initial RBAC misconfigurations causing access denials
 
 Tool compatibility issues with older OS versions
-
----
 
 🎓 Lessons Learned <br>
 Practical understanding of AD structure and user/group management
@@ -130,6 +137,7 @@ Importance of continuous auditing and evaluation in domain environments
 ---
 
 🗂️ Report Screenshots (Refer to GitHub Repository) <br>
+
 AD User & Group creation
 
 Folder structure and permission settings
@@ -139,6 +147,7 @@ Group Policy configurations
 Security tool outputs and audit results
 
 📌 Conclusion
+
 This lab provided hands-on experience in managing and securing a Windows Active Directory environment. Through iterative testing, research, and implementation, we developed critical skills in systems administration, RBAC enforcement, and domain hardening. The project was instrumental in understanding the foundational concepts of virtualization and system security.
 
 
