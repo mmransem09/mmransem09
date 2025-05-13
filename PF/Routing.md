@@ -27,12 +27,11 @@ ert3 ↔ ec8: 2.2.3.0/24 (ert3: .3, ec8: .8)
 
 ert3 ↔ es7: 3.2.3.0/24 (ert3: .3, es7: .8)
 
-## 🔒 Security Requirements and Implementation
+### 🔒 Security Requirements and Implementation
 The organization adopted a default deny firewall policy. All traffic was blocked unless explicitly allowed. Packet filtering rules were applied on rt1 and rt2, with rt2 also performing Network Address Translation (NAT) for external communication.
 
----
-
-🔐 Services and Access Rules
+ 🔐  Services and Access Rules 
+ 
 Public Access (From Internet to Internal):
 
 s5 – HTTPS server: accessible via TCP 443
