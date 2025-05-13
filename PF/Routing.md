@@ -6,7 +6,7 @@ This project was completed as part of a Network Security (NetSec) lab, focusing 
 ---
 
 ### 🌐 Network Topology
-The virtual internetwork was based on the predefined topology located at /etc/vinet/topologies/netsec_project, consisting of multiple routers, bridges, and clients. The key components included:
+The virtual internetwork was designed with a predefined topology consisting of multiple routers, bridges, and clients. The key components included:
 
 Internal clients and servers (e.g., c1–c7, s1–s7)
 
