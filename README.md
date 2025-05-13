@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for cybersecurity, I thrive on solving complex problems and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
 
-My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a Security Analyst role, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
+My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a Security Engineer role, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
 
 ## Skills
 
