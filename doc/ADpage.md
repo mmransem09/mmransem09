@@ -117,9 +117,10 @@ The following tools were explored for auditing and evaluation:
 
 ---
 
-**🧾 Challenges & Lessons Learned <br>**
+### 🧾 Challenges & Lessons Learned <br>
 
-🔧 Challenges Faced
+**🔧 Challenges Faced**
+
 -Group Policy settings not applying due to replication delays
 
 -Initial RBAC misconfigurations causing access denials
@@ -148,7 +149,7 @@ The following tools were explored for auditing and evaluation:
 
 -Security tool outputs and audit results
 
-📌 Conclusion
+### 📌 Conclusion
 
 This lab provided hands-on experience in managing and securing a Windows Active Directory environment. Through iterative testing, research, and implementation, we developed critical skills in systems administration, RBAC enforcement, and domain hardening. The project was instrumental in understanding the foundational concepts of virtualization and system security.
 
