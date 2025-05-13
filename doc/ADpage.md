@@ -11,7 +11,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 ### 🖥️ Virtual Machines <br>
 
-- **Domain Controller (DC):** Windows Server 2019/2022
+- **Domain Controller (DC):** Windows Server 2016
 
 - **File Server:** Windows Server 2019 (linked clone of DC)
 
