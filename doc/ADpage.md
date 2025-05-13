@@ -13,9 +13,9 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 - **Domain Controller (DC):** Windows Server 2016
 
-- **File Server:** Windows Server 2019 (linked clone of DC)
+- **File Server:** Windows Server 2016
 
-- **Client Machine:** Windows 10 or later (linked clone)
+- **Client Machine:** Windows 11
 
 - **Domain Name:** 505Group3.local
 
