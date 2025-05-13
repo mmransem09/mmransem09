@@ -16,7 +16,7 @@ External nodes (ert3, ec8, es7)
 
 ---
 
-## 🧩 IP Addressing Scheme
+### 🧩 IP Addressing Scheme
 Internal Network: Subnetted from 192.168.0.0/24 to address all internal hosts and interfaces.
 
 External Connections:
