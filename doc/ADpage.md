@@ -1,47 +1,47 @@
 
 # Active Directory Lab
 
-### 📋 Overview <br>
+## 📋 Overview <br>
 
 This project involved setting up and securing a small Active Directory (AD) environment to better understand Windows domain management and system hardening techniques. The environment consisted of a Domain Controller (DC), a File Server, and a Client machine.
 
 ---
 
-### ⚙️ Lab Setup <br>
+## ⚙️ Lab Setup <br>
 
-**🖥️ Virtual Machines** <br>
+### 🖥️ Virtual Machines <br>
 
--Domain Controller (DC): Windows Server 2019/2022
+- **Domain Controller (DC):** Windows Server 2019/2022
 
--File Server: Windows Server 2019 (linked clone of DC)
+- **File Server:** Windows Server 2019 (linked clone of DC)
 
--Client Machine: Windows 10 or later (linked clone)
+* **Client Machine:** Windows 10 or later (linked clone)
 
--Domain Name: 505Group3.local
++ **Domain Name:** 505Group3.local
 
 ---
 
 ### 🧱 Active Directory Configuration <br>
 
--Groups Created:
+- **Groups Created:**
 
-  -Test1
+  - Test1
 
-  -Test2
+  - Test2
 
--Users Created:
+- **Users Created:**
 
-  -April → added to Test1
+  - April → added to Test1
 
-  -May → added to Test1
+  - May → added to Test1
 
-  -June → added to Test2
+  * June → added to Test2
 
-  -July → added to Test2
+  + July → added to Test2
 
-  -August → not added to any group
+  + August → not added to any group
 
--Organizational Units: Default
+* **Organizational Units:** Default
 
 ---
 
