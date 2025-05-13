@@ -48,5 +48,4 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ## Projects
 - Packet Filtering Lab
 - Active Directory Lab
-- Game of Active Directory (GOAD) Lab
 - Cisco ASA Lab
