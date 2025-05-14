@@ -8,11 +8,11 @@ This project was completed as part of a Network Security (NetSec) lab, focusing 
 ### 🌐 Network Topology
 The virtual internetwork was designed using a predefined topology consisting of multiple routers, bridges, and clients. The key components included:
 
-Internal clients and servers (e.g., c1–c7, s1–s7)
+- Internal clients and servers (e.g., c1–c7, s1–s7)
 
-Edge routers (rt1, rt2)
+- Edge routers (rt1, rt2)
 
-External nodes (ert3, ec8, es7)
+- External nodes (ert3, ec8, es7)
 
 ---
 
