@@ -55,16 +55,16 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 ---
 
 ### 🔁 NAT Configuration
-All outbound connections from the internal network were NATed using the IP address 1.2.3.4 on the external interface of rt2.
+- All outbound connections from the internal network were NATed using the IP address 1.2.3.4 on the external interface of rt2.
 
-Port forwarding rules were configured for public-facing services hosted internally.
+- Port forwarding rules were configured for public-facing services hosted internally.
 
 ---
 
 ### 🛠️ Tools and Testing
-**netcat (nc):** Used to emulate client-server communication for HTTP, SMTP, DNS, and IMAP testing.
+- **netcat (nc):** Used to emulate client-server communication for HTTP, SMTP, DNS, and IMAP testing.
 
-**ftp:** Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
+- **ftp:** Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
 
 ---
 
