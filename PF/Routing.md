@@ -34,23 +34,23 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 
 ### 🔐  Services and Access Rules
  
-**Public Access (From Internet to Internal):**
+**1.  Public Access (From Internet to Internal):**
 
-s5 – HTTPS server: accessible via TCP 443
+- s5 – HTTPS server: accessible via TCP 443
 
-s6 – SMTP server: accessible via TCP 25; internal users also access it via IMAP (TCP 143)
+- s6 – SMTP server: accessible via TCP 25; internal users also access it via IMAP (TCP 143)
 
-s7 – DNS server: accessible via UDP/TCP 53
+- s7 – DNS server: accessible via UDP/TCP 53
 
-**Internal Access (To Internet):**
+**2.  Internal Access (To Internet):**
 
-Web browsing: internal clients access HTTP/HTTPS (TCP 80/443)
+- Web browsing: internal clients access HTTP/HTTPS (TCP 80/443)
 
-SMTP: internal clients send email via s1 (SMTP relay) and s6
+- SMTP: internal clients send email via s1 (SMTP relay) and s6
 
-DNS: internal clients query s2 (internal resolver), which forwards to public DNS servers and s7
+- DNS: internal clients query s2 (internal resolver), which forwards to public DNS servers and s7
 
-FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and external (es7) FTP servers
+- FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and external (es7) FTP servers
 
 ---
 
