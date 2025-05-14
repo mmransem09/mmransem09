@@ -61,7 +61,7 @@ Port forwarding rules were configured for public-facing services hosted internal
 
 ---
 
-## 🛠️ Tools and Testing
+### 🛠️ Tools and Testing
 **netcat (nc):** Used to emulate client-server communication for HTTP, SMTP, DNS, and IMAP testing.
 
 **ftp:** Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
