@@ -17,9 +17,9 @@ External nodes (ert3, ec8, es7)
 ---
 
 ### 🧩 IP Addressing Scheme
-Internal Network: Subnetted from 192.168.0.0/24 to address all internal hosts and interfaces.
+**Internal Network:** Subnetted from 192.168.0.0/24 to address all internal hosts and interfaces.
 
-External Connections:
+**External Connections:**
 
 rt2 ↔ ert3: 1.2.3.0/24 (rt2: 1.2.3.4)
 
@@ -32,9 +32,9 @@ ert3 ↔ es7: 3.2.3.0/24 (ert3: .3, es7: .8)
 ### 🔒 Security Requirements and Implementation
 The organization adopted a default deny firewall policy. All traffic was blocked unless explicitly allowed. Packet filtering rules were applied on rt1 and rt2, with rt2 also performing Network Address Translation (NAT) for external communication.
 
- 🔐  **Services and Access Rules** 
+### 🔐  Services and Access Rules
  
-Public Access (From Internet to Internal):
+**Public Access (From Internet to Internal):**
 
 s5 – HTTPS server: accessible via TCP 443
 
@@ -42,7 +42,7 @@ s6 – SMTP server: accessible via TCP 25; internal users also access it via IMA
 
 s7 – DNS server: accessible via UDP/TCP 53
 
-Internal Access (To Internet):
+**Internal Access (To Internet):**
 
 Web browsing: internal clients access HTTP/HTTPS (TCP 80/443)
 
@@ -59,10 +59,12 @@ All outbound connections from the internal network were NATed using the IP addre
 
 Port forwarding rules were configured for public-facing services hosted internally.
 
-🛠️ Tools and Testing
-netcat (nc): Used to emulate client-server communication for HTTP, SMTP, DNS, and IMAP testing.
+---
 
-ftp: Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
+## 🛠️ Tools and Testing
+**netcat (nc):** Used to emulate client-server communication for HTTP, SMTP, DNS, and IMAP testing.
+
+**ftp:** Actual FTP servers were configured on s5 and es7. Access was managed through an FTP proxy running on rt2.
 
 ---
 
