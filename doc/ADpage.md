@@ -70,6 +70,12 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
    - **Subfolders:** Users, Jobs, Accounts
 
+<div>
+
+![User Accounts Creation](screenshots/TestData.jpg)
+  
+</div>
+
 ---
 
 ### 🔐 Permissions Configuration <br>
