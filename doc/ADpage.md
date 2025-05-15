@@ -35,7 +35,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
   - Test2
   - 
   <div>
-![Groups Created](screenshots/Group Creation.jpg)
+![Groups Created](screenshots/GroupCreation.jpg)
 
 </div>
 
