@@ -82,17 +82,30 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 - All users → full access to TestData\Users
 
+<div>
+
+![User Accounts Creation](screenshots/AllUsersPermissions.jpg)
+  
+</div>
+
 - Test1 group → modify access to Jobs
 
-- Test2 group → read/write access to Accounts
+  <div>
 
-- August → read-only access to Jobs
+![User Accounts Creation](screenshots/Test1Permissions.jpg)
+  
+</div>
+
+- Test2 group → read/write access to Accounts
 
 <div>
 
 ![User Accounts Creation](screenshots/Permissions.jpg)
   
 </div>
+
+- August → read-only access to Jobs
+
 
 ---
 
