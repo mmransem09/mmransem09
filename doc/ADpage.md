@@ -88,6 +88,12 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 - August → read-only access to Jobs
 
+<div>
+
+![User Accounts Creation](screenshots/Permissions.jpg)
+  
+</div>
+
 ---
 
 ### 🧪 RBAC Testing <br>
