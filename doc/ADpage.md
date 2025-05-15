@@ -13,12 +13,16 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 - **Domain Controller (DC):** Windows Server 2016
 
-- **File Server:** Windows Server 2016
+- **File Server:** Windows Server 2016 (FileShare)
 
 - **Client Machine:** Windows 11
 
 - **Domain Name:** 505Group3.local
+  <div>
 ![VirtualBox and 3 VMs](screenshots/VMs.jpg)
+
+</div>
+
 
 ---
 
