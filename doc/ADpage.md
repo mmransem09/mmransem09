@@ -33,11 +33,11 @@ This project involved setting up and securing a small Active Directory (AD) envi
   - Test1
 
   - Test2
-  - 
+
   <div>
 ![Groups Created](screenshots/GroupCreation.jpg)
 
-</div>
+  </div>
 
 - **Users Created:**
 
