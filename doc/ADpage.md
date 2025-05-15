@@ -50,6 +50,13 @@ This project involved setting up and securing a small Active Directory (AD) envi
   - July → added to Test2
 
   - August → not added to any group
+  
+<div>
+
+![User Accounts Creation](screenshots/UserCreation.jpg)
+  
+</div>
+  
 
 * **Organizational Units:** Default
 
