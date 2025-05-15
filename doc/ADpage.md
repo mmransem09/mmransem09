@@ -18,6 +18,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 - **Client Machine:** Windows 11
 
 - **Domain Name:** 505Group3.local
+![VirtualBox and 3 VMs](screenshots/example.png)
 
 ---
 
