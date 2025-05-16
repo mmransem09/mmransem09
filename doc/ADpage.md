@@ -193,8 +193,8 @@ Pre-hardening Nessus scan result for DC01(Workstation)
 
   <div>
 
-![User Accounts Creation](screenshots/.jpg)
-Pre-hardening Nessus scan result for DC01(Workstation)
+![User Accounts Creation](screenshots/PasswordComplexity.jpg)
+Password must meet complexity requirements enforcement
   
 </div>
 
