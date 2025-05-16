@@ -115,7 +115,19 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 - Verified folder access based on group membership
 
+  <div>
+
+![User Accounts Creation](screenshots/AprilSuccess.jpg)
+  
+</div>
+
 - Modified group membership dynamically and tested RBAC limitations
+
+<div>
+
+![User Accounts Creation](screenshots/AprilFailure.jpg)
+  
+</div>
 
 ---
 
