@@ -72,7 +72,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 <div>
 
-![User Accounts Creation](screenshots/TestData.jpg)
+![Fileshare](screenshots/TestData.jpg)
   
 </div>
 
@@ -84,7 +84,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 <div>
 
-![User Accounts Creation](screenshots/AllUsersPermissions.jpg)
+![Enforncing Permissions](screenshots/AllUsersPermissions.jpg)
   
 </div>
 
@@ -92,7 +92,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
   <div>
 
-![User Accounts Creation](screenshots/Test1Permissions.jpg)
+![Enforcing Permissions](screenshots/Test1Permissions.jpg)
   
 </div>
 
@@ -100,7 +100,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 <div>
 
-![User Accounts Creation](screenshots/Permissions.jpg)
+![Enforcing Permissions](screenshots/Permissions.jpg)
   
 </div>
 
@@ -117,7 +117,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
   <div>
 
-![User Accounts Creation](screenshots/AprilSuccess.jpg)
+![April Sucess](screenshots/AprilSuccess.jpg)
   April is able to successfully Write and Modify a file in Jobs sub-directory
 </div>
 
@@ -125,7 +125,7 @@ This project involved setting up and securing a small Active Directory (AD) envi
 
 <div>
 
-![User Accounts Creation](screenshots/AprilFailure.jpg)
+![April Failure](screenshots/AprilFailure.jpg)
 April unable to Modify Accounts sub-directory.
   
 </div>
@@ -140,7 +140,7 @@ The following tools were explored for auditing and evaluation:
 
   <div>
 
-![User Accounts Creation](screenshots/PingCastle1.jpg)
+![PingCastle Scan](screenshots/PingCastle1.jpg)
 Pre-hardening PingCastle scan result for 505Group3.local domain
   
 </div>
@@ -153,7 +153,7 @@ Pre-hardening PingCastle scan result for 505Group3.local domain
 
   <div>
 
-![User Accounts Creation](screenshots/Nessus1.jpg)
+![Nessus Scan](screenshots/Nessus1.jpg)
 Pre-hardening Nessus scan result for DC01(Workstation)
   
 </div>
@@ -167,6 +167,13 @@ Pre-hardening Nessus scan result for DC01(Workstation)
 - Created a separate local admin account
 
 - Enabled BitLocker with Enhanced PIN on DC
+
+  <div>
+
+![User Accounts Creation](screenshots/Hardening-Bitlocker4.jpg)
+Pre-hardening Nessus scan result for DC01(Workstation)
+  
+</div>
 
 - Enabled Windows Defender with real-time protection
 
@@ -183,6 +190,13 @@ Pre-hardening Nessus scan result for DC01(Workstation)
 - Configured host-based firewalls
 
 - Disabled unused services and ports
+
+  <div>
+
+![User Accounts Creation](screenshots/.jpg)
+Pre-hardening Nessus scan result for DC01(Workstation)
+  
+</div>
 
 ---
 
