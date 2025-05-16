@@ -118,14 +118,17 @@ This project involved setting up and securing a small Active Directory (AD) envi
   <div>
 
 ![User Accounts Creation](screenshots/AprilSuccess.jpg)
-  
+
+  April is able to successfully Write and Modify a file in Jobs sub-directory
 </div>
 
 - Modified group membership dynamically and tested RBAC limitations
 
+April unable to Modify Accounts sub-directory.
 <div>
 
 ![User Accounts Creation](screenshots/AprilFailure.jpg)
+
   
 </div>
 
