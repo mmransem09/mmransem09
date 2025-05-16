@@ -138,11 +138,25 @@ The following tools were explored for auditing and evaluation:
 
 - **Ping Castle** – Domain security health check
 
+  <div>
+
+![User Accounts Creation](screenshots/PingCastle1.jpg)
+Pre-hardening PingCastle scan result for 505Group3.local domain
+  
+</div>
+
 - **BloodHound** – AD privilege escalation mapping
 
 - **CIS Benchmarks** – Security compliance checklists
 
 - **Nessus** – Vulnerability scanning
+
+  <div>
+
+![User Accounts Creation](screenshots/Nessus1.jpg)
+Pre-hardening Nessus scan result for DC01(Workstation)
+  
+</div>
 
 - **Windows Security Baseline** – Group Policy reference
 
