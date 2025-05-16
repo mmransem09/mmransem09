@@ -170,7 +170,7 @@ Pre-hardening Nessus scan result for DC01(Workstation)
 
   <div>
 
-![User Accounts Creation](screenshots/Hardening-Bitlocker4.jpg)
+![User Accounts Creation](screenshots/Bitlocker.jpg)
 Pre-hardening Nessus scan result for DC01(Workstation)
   
 </div>
