@@ -171,7 +171,7 @@ Pre-hardening Nessus scan result for DC01(Workstation)
   <div>
 
 ![User Accounts Creation](screenshots/Bitlocker.jpg)
-Pre-hardening Nessus scan result for DC01(Workstation)
+Enabling BitLocker disk encryption with password and verifying it on both DC01 and FileServer
   
 </div>
 
