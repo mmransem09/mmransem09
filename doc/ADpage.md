@@ -198,6 +198,13 @@ Password must meet complexity requirements enforcement
   
 </div>
 
+  <div>
+
+![User Accounts Creation](screenshots/PingCastle2.jpg)
+Post-Hardening PingCastle scan report score for 505Group3.local Domain
+  
+</div>
+
 ---
 
 ### 🧾 Challenges & Lessons Learned <br>
