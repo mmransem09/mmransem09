@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm a results-driven IT professional with over 5 years of hands-on experience as an IT Support Engineer, backed by a strong foundation in networking and system administration. 
 
-My journey in computer science has sparked a deep passion for cybersecurity, inspiring my transition into this ever-evolving field. I thrive on solving complex technical challenges, securing digital environments, and using technology to create innovative and impactful solutions. I’m currently focused on advancing into a Security Engineer role, where I can actively contribute to protecting digital infrastructures and mitigating emerging threats. Let’s connect and collaborate on building secure, forward-thinking systems!
+My journey in computer science has sparked a deep passion for cybersecurity, inspiring my transition into this ever-evolving field. I thrive on solving complex technical challenges, securing digital environments, and using technology to create innovative and impactful solutions. I’m currently focused on advancing into a Security Engineer role, where I can actively contribute to protecting digital infrastructures and mitigating emerging threats. Let’s connect and collaborate on building secure, forward-thinking systems.
 
 ## Skills
 
