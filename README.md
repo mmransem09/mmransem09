@@ -1,9 +1,9 @@
 # Hello, I'm Hananiah
 <a href="https://www.linkedin.com/in/hgbadago/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub! I'm a dedicated IT professional with over 5 years of experience as an IT Support Engineer. Fueled by a deep passion for cybersecurity and with an IT Support and Networking background, I thrive on solving complex challenges and leveraging technology to drive innovation. Let's connect and create solutions that make an impact!
+Welcome to my GitHub! I'm a results-driven IT professional with over 5 years of hands-on experience as an IT Support Engineer, backed by a strong foundation in networking and system administration. 
 
-My journey in computer science has ignited a deep passion for cybersecurity, driving my ambition to transition into this dynamic field. I am excited to channel my skills and dedication into a Security Engineer role, where I can contribute to safeguarding digital landscapes and tackling emerging threats.
+My journey in computer science has sparked a deep passion for cybersecurity, inspiring my transition into this ever-evolving field. I thrive on solving complex technical challenges, securing digital environments, and using technology to create innovative, impactful solutions. I’m currently focused on advancing into a Security Engineer role, where I can actively contribute to protecting digital infrastructures and mitigating emerging threats. Let’s connect and collaborate on building secure, forward-thinking systems!
 
 ## Skills
 
