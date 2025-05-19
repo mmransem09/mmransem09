@@ -194,7 +194,7 @@ Enabling BitLocker disk encryption with password and verifying it on both DC01 a
   <div>
 
 ![User Accounts Creation](screenshots/PasswordComplexity.jpg)
-Password must meet complexity requirements enforcement
+Password complexity requirements enforcement
   
 </div>
 
