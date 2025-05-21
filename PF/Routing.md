@@ -15,7 +15,7 @@ The virtual internetwork was designed using a predefined topology consisting of 
 - External nodes (ert3, ec8, es7)
 
   <div>
-![Topology Diagram](screenshots/VMs.jpg)
+![Topology Diagram](screenshots/topology.jpg)
 
 </div>
 
@@ -31,6 +31,11 @@ The virtual internetwork was designed using a predefined topology consisting of 
   - ert3 ↔ ec8: 2.2.3.0/24 (ert3: .3, ec8: .8)
 
   - ert3 ↔ es7: 3.2.3.0/24 (ert3: .3, es7: .8)
+
+  <div>
+![IP Addressing](screenshots/topology1.jpg)
+
+</div>
 
 ---
 
