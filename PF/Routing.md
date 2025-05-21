@@ -52,6 +52,11 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 
 - s7 – DNS server: accessible via UDP/TCP 53
 
+    <div>
+![Topology Diagram](rt1.jpg)
+
+</div>
+
 **2.  Internal Access (To Internet):**
 
 - Web browsing: internal clients access HTTP/HTTPS (TCP 80/443)
@@ -63,7 +68,7 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 - FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and external (es7) FTP servers
 
   <div>
-![Topology Diagram](rt1.jpg)
+![Topology Diagram](rt2.jpg)
 
 </div>
 
@@ -75,7 +80,7 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 - Port forwarding rules were configured for public-facing services hosted internally.
 
   <div>
-![Topology Diagram](rt2.jpg)
+![Packet filtering](config.jpg)
 
 </div>
 
