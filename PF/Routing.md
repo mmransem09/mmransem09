@@ -93,15 +93,6 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 
 ---
 
-### 📦 Deliverables
-- 🗺️ Topology Diagram: Includes all IP addresses, subnets, and network components. (Include this as an image or diagram file in your GitHub repo.)
-
-- 📜 Firewall Rulesets: Detailed iptables or equivalent configuration scripts applied on rt1 and rt2.
-
-- 📄 Testing Logs: Connection tests and verification for each service scenario using netcat, ftp, and other diagnostic tools.
-
----
-
 ### ✅ Conclusion
 This project provided hands-on experience in network segmentation, firewall policy design, NAT configuration, and service access control. It reinforced my understanding of core cybersecurity principles by applying a least-privilege access model to real-world networking scenarios.
 
