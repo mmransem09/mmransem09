@@ -62,12 +62,22 @@ The organization adopted a default deny firewall policy. All traffic was blocked
 
 - FTP: internal clients use FTP via a proxy on rt2 to access internal (s5) and external (es7) FTP servers
 
+  <div>
+![Topology Diagram](rt1.jpg)
+
+</div>
+
 ---
 
 ### 🔁 NAT Configuration
 - All outbound connections from the internal network were NATed using the IP address 1.2.3.4 on the external interface of rt2.
 
 - Port forwarding rules were configured for public-facing services hosted internally.
+
+  <div>
+![Topology Diagram](rt2.jpg)
+
+</div>
 
 ---
 
