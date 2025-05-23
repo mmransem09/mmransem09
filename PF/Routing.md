@@ -28,7 +28,7 @@ The virtual internetwork was designed using a predefined topology consisting of 
 
   - s1 to rt1 (192.168.0.65/26 to 192.168.0.68/26)
 
-  - s5 to rt1 (192.168.0.129/26 to 192.168.0.132/26)
+  - s5 to rt2 (192.168.0.129/26 to 192.168.0.132/26)
     
 - **External Connections:**
 
