@@ -24,6 +24,12 @@ The virtual internetwork was designed using a predefined topology consisting of 
 ### 🧩 IP Addressing Scheme
 - **Internal Network:** Subnetted from 192.168.0.0/24 to address all internal hosts and interfaces.
 
+  - C1 to rt1 vio0 (192.168.0.1/26 to 192.168.0.8/26)
+
+  - s1 to rt1 vio1(192.168.0.65/26 to 192.168.0.68/26)
+
+  - s5 to rt1 vio2 (192.168.0.129/26 to 192.168.0.132/26)
+    
 - **External Connections:**
 
   - rt2 ↔ ert3: 1.2.3.0/24 (rt2: 1.2.3.4, ert3: 1.2.3.3)
