@@ -1,4 +1,4 @@
-# Hello, I'm Hananiah - Cybersecurity & System Administration Portfolio
+# Hello, I'm Hananiah this is my Cybersecurity & System Administration Portfolio
 <a href="https://www.linkedin.com/in/hgbadago/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my GitHub! I'm a results-driven IT professional with over 5 years of hands-on experience as an IT Support Engineer, backed by a strong foundation in networking and system administration. 
