@@ -33,6 +33,8 @@ My journey in computer science has sparked a deep passion for cybersecurity, ins
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PingCastle-6A1B9A?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A1E0?style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hashcat-222222?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
