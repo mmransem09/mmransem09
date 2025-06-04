@@ -13,7 +13,6 @@ My journey in computer science has sparked a deep passion for cybersecurity, ins
 | User and Group Management, Group Policy Management (GPO) <br> Identity and Access Management (IAM), Security Hardening| <a href="https://github.com/mmransem09/mmransem09/blob/main/doc/ADpage.md">Active Directory Lab</a>|
 | Next-Generation Firewall, IPS, VPN, NAT, Advanced Threat Protection, <br>Access Control| <a href="https://google.com"> Cisco ASA Lab</a>|
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
