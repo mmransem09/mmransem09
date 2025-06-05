@@ -41,7 +41,6 @@ My journey in computer science has sparked a deep passion for cybersecurity, ins
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity-00358E?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
