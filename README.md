@@ -1,7 +1,7 @@
 # Hi, I'm Hananiah - Cybersecurity Analyst & Systems Administrator
 <a href="https://www.linkedin.com/in/hgbadago/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub! A dedicated portfolio for the documentation of my technical projects. These repositories contains write-ups that showcase my practical work. 
+Welcome to my GitHub! A dedicated portfolio for the documentation of my technical projects. These repositories contain write-ups that showcase my practical work. 
 
 
 I'm a results-driven IT professional with over 5 years of hands-on experience as an IT Support Engineer, backed by a strong foundation in networking and system administration. 
