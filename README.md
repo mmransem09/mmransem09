@@ -14,7 +14,7 @@ My journey in Information Technology has sparked a deep passion for cybersecurit
 |-----------------------------------------------|----------------------------|
 | IP Networking, Subnetting, Routing, Network Address Translation (NAT) <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc.    | <a href="https://github.com/mmransem09/mmransem09/blob/main/PF/Routing.md">Packet Filtering Lab</a>|
 | User and Group Management, Group Policy Management (GPO) <br> Identity and Access Management (IAM), Security Hardening| <a href="https://github.com/mmransem09/mmransem09/blob/main/doc/ADpage.md">Active Directory Lab</a>|
-| Next-Generation Firewall, IPS, VPN, NAT, Advanced Threat Protection, <br>Access Control| <a href="https://github.com/mmransem09/ASA-Lab/blob/main/IDPSLab.md"> Secure Chat Application </a>|
+| Reinforces confidentiality, integrity, and non-repudiation principles from the CIA triad, IPS, VPN, NAT, Advanced Threat Protection, <br>Access Control| <a href="https://github.com/mmransem09/ASA-Lab/blob/main/IDPSLab.md"> Secure Chat Application </a>|
 | Next-Generation Firewall, IPS, VPN, NAT, Advanced Threat Protection, <br>Access Control| <a href="https://github.com/mmransem09/ASA-Lab/blob/main/IDPSLab.md"> Cisco ASA Lab</a>|
 
 ## Tools
