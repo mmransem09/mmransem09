@@ -12,9 +12,9 @@ My journey in Information Technology has sparked a deep passion for cybersecurit
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking (TCP/IP), LAN, Subnetting, Routing, Network Address Translation (NAT) <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc.    | <a href="https://github.com/mmransem09/mmransem09/blob/main/PF/Routing.md">Packet Filtering Lab</a>|
-| User and Group Management, Group Policy Management (GPO), Access control <br> Identity and Access Management (IAM), Security Hardening, Least Privelege| <a href="https://github.com/mmransem09/mmransem09/blob/main/doc/ADpage.md">Active Directory Lab</a>|
-| Cryptography (Data encryption/decryption, hashing), CIA triad and non-repudiation <br> VB.NET, Secure SDLC, Key management & distribution (PKI), Security testing & validation | <a href="https://github.com/mmransem09/SecureChatApplication/blob/main/SecureChatApplication.md"> Secure Chat Application </a>|
+| Networking (TCP/IP), LAN, Subnetting, Routing, Network Address Translation (NAT), <br> Restricting access to services such as SMTP, IMAP, DNS, FTP, HTTP, HTTPS etc.    | <a href="https://github.com/mmransem09/mmransem09/blob/main/PF/Routing.md">Packet Filtering Lab</a>|
+| User and Group Management, Group Policy Management (GPO), Access control, <br> Identity and Access Management (IAM), Security Hardening, Least Privelege| <a href="https://github.com/mmransem09/mmransem09/blob/main/doc/ADpage.md">Active Directory Lab</a>|
+| Cryptography (Data encryption/decryption, hashing), CIA triad and non-repudiation, <br> VB.NET, Secure SDLC, Key management & distribution (PKI), Security testing & validation | <a href="https://github.com/mmransem09/SecureChatApplication/blob/main/SecureChatApplication.md"> Secure Chat Application </a>|
 | Next-Generation Firewall, IPS, VPN, NAT, Advanced Threat Protection, Access Control| <a href="https://github.com/mmransem09/ASA-Lab/blob/main/IDPSLab.md"> Cisco ASA Lab</a>|
 
 ## Tools
