@@ -5,7 +5,7 @@ Welcome to my GitHub! A dedicated portfolio for the documentation of my technica
 
 I'm a results-driven IT professional with over 5 years of hands-on experience as an IT Support Engineer, backed by a strong foundation in networking and system administration. 
 
-I thrive on solving complex technical challenges, securing digital environments, and using technology to create innovative and impactful solutions. I’m currently focused on advancing into a Security role, where I can actively contribute to protecting digital infrastructures and mitigating emerging threats. Let’s connect and collaborate on building secure, forward-thinking systems.
+I thrive on solving complex technical challenges, securing digital environments, and using technology to create innovative and impactful solutions. I’m currently focused on continuously improving myself, building systems, and actively contributing to protecting digital infrastructures and mitigating emerging threats. Let’s connect and collaborate on building secure, forward-thinking systems.
 
 ## Skills
 
